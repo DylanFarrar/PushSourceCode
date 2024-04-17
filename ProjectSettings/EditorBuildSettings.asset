@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8cde8090d879ffd4fa250164f30ad461
+  - enabled: 1
+    path: Assets/Scenes/LevelsMenu.unity
+    guid: 08e0c94c02c08df469f1c7b87cf6f8b7
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
+    guid: f749940935f45244085bcbdd18b1607b
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: 8a618efd66e076b49b46d0ffa2a36f67
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: 414089687b02ced40b37cac6f596d34c
+  - enabled: 1
+    path: Assets/Scenes/Level_4.unity
+    guid: 3aa388948a1b31d45ae382b616843894
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Level_5.unity
+    guid: d6c71cd911f474240bb43a192d6ff56f
+  - enabled: 1
+    path: Assets/Scenes/Level_7.unity
+    guid: 105ab217795b9db4498e2bf0082d57a4
+  - enabled: 1
+    path: Assets/Scenes/Level_6.unity
+    guid: aa6e9e88d91f41d4dbe48a7f1da3fd2d
+  - enabled: 1
+    path: Assets/Scenes/Level_8.unity
+    guid: e3183c04649270a4f95960f8aee5f49c
+  - enabled: 1
+    path: Assets/Scenes/Level_10.unity
+    guid: 6296a1e6d8a910a4aab424ee7b32201b
+  - enabled: 1
+    path: Assets/Scenes/Level_9.unity
+    guid: 41ad650d2d76bb94390ac54bd99c13b8
+  - enabled: 1
+    path: Assets/Scenes/Level_11.unity
+    guid: 042fb44f45a00e44ab55dc3368986af9
+  - enabled: 1
+    path: Assets/Scenes/Level_12.unity
+    guid: abc6ecf4e6a0acb43bcf74e99e5e7408
+  - enabled: 1
+    path: Assets/Scenes/Level_13.unity
+    guid: e990fdcd3fdf72b45b3fe2de0510c7ac
+  - enabled: 1
+    path: Assets/Scenes/Level_14.unity
+    guid: 609de41678ac04a42b3d53448f638d8d
+  - enabled: 1
+    path: Assets/Scenes/Level_15.unity
+    guid: 5ee4b2a44c0621342ac869ce711d5753
+  - enabled: 1
+    path: Assets/Scenes/Level_16.unity
+    guid: 0db2f8ed1dea61246bf10723a00d420f
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 2cb2e095500aaa14d90acaa2bf183e7c, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 0813fec88797e96448a42629e3b36953, type: 2}
